@@ -1,0 +1,320 @@
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfABc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBBc4.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfBxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCBc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfChc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCRc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOlCnqEu92Fr1MmYUtfCxc4EsA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxK.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxK.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOmCnqEu92Fr1Mu4WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOmCnqEu92Fr1Mu5mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu72xKOzY.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOmCnqEu92Fr1Mu72xKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOmCnqEu92Fr1Mu7GxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOmCnqEu92Fr1Mu7mxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\roboto\v30\KFOmCnqEu92Fr1Mu7WxKOzY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2isfFJU.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\vt323\v17\pxiKyp0ihIEF2isfFJU.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2isQFJXGdg.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\vt323\v17\pxiKyp0ihIEF2isQFJXGdg.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/vt323/v17/pxiKyp0ihIEF2isRFJXGdg.woff2
+File Name: D:\teste copiasite\hattypotto.framer.ai\s\vt323\v17\pxiKyp0ihIEF2isRFJXGdg.woff2
+Content Type: font/woff2
+
+Uri: https://framerusercontent.com/images/3AXnDTF7bSFri4WKsf4PV29IHh0.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\3AXnDTF7bSFri4WKsf4PV29IHh0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/3AXnDTF7bSFri4WKsf4PV29IHh0.png?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\3AXnDTF7bSFri4WKsf4PV29IHh0-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ASNaDG12PvmWUx4snlub8Nc1Kg.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\ASNaDG12PvmWUx4snlub8Nc1Kg.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/ASNaDG12PvmWUx4snlub8Nc1Kg.png?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\ASNaDG12PvmWUx4snlub8Nc1Kg-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/DkSzNXc6DyUQJjY37XiQW6hfmE.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\DkSzNXc6DyUQJjY37XiQW6hfmE.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/DkSzNXc6DyUQJjY37XiQW6hfmE.png?scale-down-to=1024
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\DkSzNXc6DyUQJjY37XiQW6hfmE-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/DkSzNXc6DyUQJjY37XiQW6hfmE.png?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\DkSzNXc6DyUQJjY37XiQW6hfmE-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Eh6J9k7SWQ1LgjZ27CZcGyduv5A.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\Eh6J9k7SWQ1LgjZ27CZcGyduv5A.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Eh6J9k7SWQ1LgjZ27CZcGyduv5A.png?scale-down-to=1024
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\Eh6J9k7SWQ1LgjZ27CZcGyduv5A-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Eh6J9k7SWQ1LgjZ27CZcGyduv5A.png?scale-down-to=2048
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\Eh6J9k7SWQ1LgjZ27CZcGyduv5A-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Eh6J9k7SWQ1LgjZ27CZcGyduv5A.png?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\Eh6J9k7SWQ1LgjZ27CZcGyduv5A-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fmpdZ0gNLzL0iGlhilJbqQOIU3s.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\fmpdZ0gNLzL0iGlhilJbqQOIU3s.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/fmpdZ0gNLzL0iGlhilJbqQOIU3s.png?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\fmpdZ0gNLzL0iGlhilJbqQOIU3s-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/i1akvzdA2buVgWhlozU91t9vajc.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\i1akvzdA2buVgWhlozU91t9vajc.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/i1akvzdA2buVgWhlozU91t9vajc.png?scale-down-to=1024
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\i1akvzdA2buVgWhlozU91t9vajc-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/i1akvzdA2buVgWhlozU91t9vajc.png?scale-down-to=2048
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\i1akvzdA2buVgWhlozU91t9vajc-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/i1akvzdA2buVgWhlozU91t9vajc.png?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\i1akvzdA2buVgWhlozU91t9vajc-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/jdbzW7v0TYgp2Cafv6WsDhACI0.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\jdbzW7v0TYgp2Cafv6WsDhACI0.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/jdbzW7v0TYgp2Cafv6WsDhACI0.png?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\jdbzW7v0TYgp2Cafv6WsDhACI0-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/P0oaGNUxpvwOoUexXZqn1Hf7pI.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\P0oaGNUxpvwOoUexXZqn1Hf7pI.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Q4OdRd1McGaes1qvAQFoZmVGWM.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\Q4OdRd1McGaes1qvAQFoZmVGWM.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Q4OdRd1McGaes1qvAQFoZmVGWM.png?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\Q4OdRd1McGaes1qvAQFoZmVGWM-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qUnR8yG3owuJE7eymPW4cBHkq2k.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\qUnR8yG3owuJE7eymPW4cBHkq2k.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qUnR8yG3owuJE7eymPW4cBHkq2k.png?scale-down-to=1024
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\qUnR8yG3owuJE7eymPW4cBHkq2k-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qUnR8yG3owuJE7eymPW4cBHkq2k.png?scale-down-to=2048
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\qUnR8yG3owuJE7eymPW4cBHkq2k-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/qUnR8yG3owuJE7eymPW4cBHkq2k.png?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\qUnR8yG3owuJE7eymPW4cBHkq2k-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/UNsbpzkTJp4KCDJ4l5wCljwT1rY.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\UNsbpzkTJp4KCDJ4l5wCljwT1rY.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/UNsbpzkTJp4KCDJ4l5wCljwT1rY.png?scale-down-to=1024
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\UNsbpzkTJp4KCDJ4l5wCljwT1rY-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/UNsbpzkTJp4KCDJ4l5wCljwT1rY.png?scale-down-to=2048
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\UNsbpzkTJp4KCDJ4l5wCljwT1rY-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/UNsbpzkTJp4KCDJ4l5wCljwT1rY.png?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\UNsbpzkTJp4KCDJ4l5wCljwT1rY-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/WfpBJI6haEHysaHxH3VEHXCISw.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\WfpBJI6haEHysaHxH3VEHXCISw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/WRCFLFUV1xmvVB6JrKK1v4k4Hw.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\WRCFLFUV1xmvVB6JrKK1v4k4Hw.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/WRCFLFUV1xmvVB6JrKK1v4k4Hw.png?scale-down-to=1024
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\WRCFLFUV1xmvVB6JrKK1v4k4Hw-2.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/WRCFLFUV1xmvVB6JrKK1v4k4Hw.png?scale-down-to=2048
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\WRCFLFUV1xmvVB6JrKK1v4k4Hw-3.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/WRCFLFUV1xmvVB6JrKK1v4k4Hw.png?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\WRCFLFUV1xmvVB6JrKK1v4k4Hw-1.png
+Content Type: image/png
+
+Uri: https://framerusercontent.com/images/Wruog6xoSwpzlolb3vSk4tany60.svg
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\Wruog6xoSwpzlolb3vSk4tany60.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/Wruog6xoSwpzlolb3vSk4tany60.svg?scale-down-to=1024
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\Wruog6xoSwpzlolb3vSk4tany60-2.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/Wruog6xoSwpzlolb3vSk4tany60.svg?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\Wruog6xoSwpzlolb3vSk4tany60-1.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/zzGPMMz4gBKeyzoGlrqqEBKQuA.svg
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\zzGPMMz4gBKeyzoGlrqqEBKQuA.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/images/zzGPMMz4gBKeyzoGlrqqEBKQuA.svg?scale-down-to=512
+File Name: D:\teste copiasite\hattypotto.framer.ai\images\zzGPMMz4gBKeyzoGlrqqEBKQuA-1.svg
+Content Type: image/svg+xml
+
+Uri: https://framerusercontent.com/sites/7cYXheQgIgqTpoE1BJD8Zx/chunk-42U43NKG.mjs
+File Name: D:\teste copiasite\hattypotto.framer.ai\sites\7cYXheQgIgqTpoE1BJD8Zx\chunk-42U43NKG.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7cYXheQgIgqTpoE1BJD8Zx/chunk-ELYU6EKT.mjs
+File Name: D:\teste copiasite\hattypotto.framer.ai\sites\7cYXheQgIgqTpoE1BJD8Zx\chunk-ELYU6EKT.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7cYXheQgIgqTpoE1BJD8Zx/chunk-JIOEY3B2.mjs
+File Name: D:\teste copiasite\hattypotto.framer.ai\sites\7cYXheQgIgqTpoE1BJD8Zx\chunk-JIOEY3B2.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7cYXheQgIgqTpoE1BJD8Zx/chunk-MIE54TRD.mjs
+File Name: D:\teste copiasite\hattypotto.framer.ai\sites\7cYXheQgIgqTpoE1BJD8Zx\chunk-MIE54TRD.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7cYXheQgIgqTpoE1BJD8Zx/chunk-NBVVGV3A.mjs
+File Name: D:\teste copiasite\hattypotto.framer.ai\sites\7cYXheQgIgqTpoE1BJD8Zx\chunk-NBVVGV3A.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7cYXheQgIgqTpoE1BJD8Zx/default_script0.JXASL2CU.mjs
+File Name: D:\teste copiasite\hattypotto.framer.ai\sites\7cYXheQgIgqTpoE1BJD8Zx\default_script0.JXASL2CU.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/7cYXheQgIgqTpoE1BJD8Zx/FdKbHWbzC5GhAsZonbO08RvW_N0Fv74KBcUohkW6ZsU.6HCCYWCI.mjs
+File Name: D:\teste copiasite\hattypotto.framer.ai\sites\7cYXheQgIgqTpoE1BJD8Zx\FdKbHWbzC5GhAsZonbO08RvW_N0Fv74KBcUohkW6ZsU.6HCCYWCI.mjs
+Content Type: text/javascript
+
+Uri: https://framerusercontent.com/sites/icons/default-favicon.v3.png
+File Name: D:\teste copiasite\hattypotto.framer.ai\sites\icons\default-favicon.v3.png
+Content Type: image/png
+
+Uri: https://hattypotto.framer.ai/
+File Name: D:\teste copiasite\hattypotto.framer.ai\index.htm
+Content Type: text/html
+
